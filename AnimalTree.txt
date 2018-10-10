@@ -1,0 +1,23 @@
+ Is it a mammal?
+Y Does it walk on two legs?
+YY Does it have a pocket?
+YYY Kangaroo
+YYN Gorilla
+YN Do people own them as pets?
+YNY Is it known as "man’s best friend"?
+YNYY Dog
+YNYN Is it a farm animal?
+YNYNY Pig
+YNYNN Cat
+YNN Lion
+N Is it a fish?
+NY Does it lie on the ocean floor?
+NYY Starfish
+NYN Shark
+NN Does it have a long tongue?
+NNY Frog
+NNN Does it fly?
+NNNY Is it an insect?
+NNNYY Fly
+NNNYN Bird
+NNNN Turtle
