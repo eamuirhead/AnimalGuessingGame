@@ -6,7 +6,7 @@ import java.io.*;
 * Class that plays animal guessing game
 *
 * @author Elizabeth Muirhead
-* @version CSC 112, November 2017
+* @version November 2017
 */
 
 public class AnimalGuess{
