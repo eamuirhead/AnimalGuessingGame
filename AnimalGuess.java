@@ -82,7 +82,7 @@ public class AnimalGuess{
 			String animal = finalRead.nextLine();
 	
 			// gets question from user
-			System.out.println("What is a question that will distinguish it from a"+position.getData()+"?"); 
+			System.out.println("What is a question that will distinguish it from a "+position.getData()+"?"); 
 			String question = finalRead.nextLine();
 			// gets answer to question from user
 			System.out.println("Will the answer to that question be yes or no for your animal?"); 
