@@ -46,6 +46,7 @@ public class AnimalGuess{
 		// start of game, prints first few lines
 		System.out.println("Think of an animal.");
 		System.out.println("I’ll try to guess it.");
+		System.out.println("Answer with 'yes' or 'no'");
 		System.out.println(position.getData());
 
 		// when you’re not at a leaf
